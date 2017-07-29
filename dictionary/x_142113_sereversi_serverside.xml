@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<database>
+    <element label="Serverside" max_length="40" name="x_142113_sereversi_serverside" type="collection">
+        <element label="FirstName" max_length="30" name="firstname" type="string"/>
+        <element label="LastName" max_length="30" name="lastname" type="string"/>
+        <element label="UpdatedDate" max_length="40" name="updateddate" type="glide_date_time"/>
+        <element attributes="edge_encryption_enabled=true" label="Requested for Email" mandatory="true" max_length="40" name="u_string_1" type="string"/>
+    </element>
+</database>

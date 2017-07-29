@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sys_user_role_contains">
+    <sys_user_role_contains action="INSERT_OR_UPDATE">
+        <contains display_value="admin" name="admin">2831a114c611228501d4ea6c309d626d</contains>
+        <role display_value="x_142113_sereversi.Test" name="x_142113_sereversi.Test">22b7327cdb580300ac0cd540cf9619b5</role>
+        <sys_class_name>sys_user_role_contains</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2017-07-29 10:01:12</sys_created_on>
+        <sys_customer_update>false</sys_customer_update>
+        <sys_id>54dab230db980300ac0cd540cf961948</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>admin.x_142113_sereversi.Test</sys_name>
+        <sys_package display_value="SereverSide" source="x_142113_sereversi">5ab596a0db100300ac0cd540cf96195d</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="SereverSide">5ab596a0db100300ac0cd540cf96195d</sys_scope>
+        <sys_update_name>sys_user_role_contains_54dab230db980300ac0cd540cf961948</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2017-07-29 10:01:12</sys_updated_on>
+    </sys_user_role_contains>
+</record_update>
