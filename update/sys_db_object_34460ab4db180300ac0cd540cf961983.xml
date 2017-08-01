@@ -25,7 +25,7 @@
         <sys_created_on>2017-07-29 06:12:53</sys_created_on>
         <sys_customer_update>false</sys_customer_update>
         <sys_id>34460ab4db180300ac0cd540cf961983</sys_id>
-        <sys_mod_count>0</sys_mod_count>
+        <sys_mod_count>2</sys_mod_count>
         <sys_name>Serverside</sys_name>
         <sys_package display_value="SereverSide" source="x_142113_sereversi">5ab596a0db100300ac0cd540cf96195d</sys_package>
         <sys_policy/>
@@ -33,7 +33,7 @@
         <sys_scope display_value="SereverSide">5ab596a0db100300ac0cd540cf96195d</sys_scope>
         <sys_update_name>sys_db_object_34460ab4db180300ac0cd540cf961983</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2017-07-29 06:12:53</sys_updated_on>
+        <sys_updated_on>2017-08-01 10:11:47</sys_updated_on>
         <update_access>false</update_access>
         <user_role display_value="x_142113_sereversi.serverside_user" name="x_142113_sereversi.serverside_user">67868ab4db180300ac0cd540cf9619c0</user_role>
         <ws_access>true</ws_access>
