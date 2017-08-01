@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<database>
+    <element extends="sys_import_set_row" label="Serverside_Staging" max_length="40" name="x_142113_sereversi_serverside_staging" type="collection">
+        <element attributes="import_attribute_name=Activity planned for today,edge_encryption_enabled=true" label="Activity planned for today" max_length="47" name="u_activity_planned_for_today" type="string"/>
+        <element attributes="import_attribute_name=Duration,edge_encryption_enabled=true" label="Duration" max_length="40" name="u_duration" type="string"/>
+        <element attributes="import_attribute_name=Pending Activity,edge_encryption_enabled=true" label="Pending Activity" max_length="40" name="u_pending_activity" type="string"/>
+        <element attributes="import_attribute_name=Steps Taken,edge_encryption_enabled=true" label="Steps Taken" max_length="64" name="u_steps_taken" type="string"/>
+        <element attributes="import_attribute_name=Task completed,edge_encryption_enabled=true" label="Task completed" max_length="47" name="u_task_completed" type="string"/>
+    </element>
+</database>
