@@ -1,9 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <database>
-    <element label="Serverside" max_length="40" name="x_142113_sereversi_serverside" type="collection">
+    <element audit="true" label="Serverside" max_length="40" name="x_142113_sereversi_serverside" type="collection">
         <element label="FirstName" max_length="30" name="firstname" type="string"/>
         <element label="LastName" max_length="30" name="lastname" type="string"/>
+        <element label="Manager" max_length="32" name="manager" reference="sys_user" type="reference"/>
         <element label="UpdatedDate" max_length="40" name="updateddate" type="glide_date_time"/>
+        <element attributes="edge_encryption_enabled=true" choice="1" label="status" max_length="40" name="u_choice_1" type="string">
+            <choice>
+                <element label="new" sequence="0" value="new"/>
+                <element label="pending" sequence="1" value="pending"/>
+                <element label="requested" sequence="2" value="requested"/>
+                <element label="approved" sequence="3" value="approved"/>
+                <element label="close" sequence="4" value="close"/>
+            </choice>
+        </element>
         <element attributes="edge_encryption_enabled=true" label="Requested for Email" mandatory="true" max_length="40" name="u_string_1" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Short Disc" max_length="40" name="u_string_2" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="detail" max_length="40" name="u_string_3" type="string"/>
+        <index name="index">
+            <element name="manager"/>
+        </index>
     </element>
 </database>

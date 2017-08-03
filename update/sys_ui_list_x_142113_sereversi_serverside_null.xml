@@ -4,47 +4,92 @@
         <sys_ui_list_element action="INSERT_OR_UPDATE">
             <average_value>false</average_value>
             <element>firstname</element>
-            <list_id display_value="x_142113_sereversi_serverside" element="NULL" name="x_142113_sereversi_serverside" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">28f642f4db180300ac0cd540cf9619b2</list_id>
+            <list_id display_value="x_142113_sereversi_serverside" element="NULL" name="x_142113_sereversi_serverside" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">3373738adb500300ac0cd540cf9619f3</list_id>
             <max_value>false</max_value>
             <min_value>false</min_value>
             <position>0</position>
             <sum>false</sum>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2017-07-29 06:14:35</sys_created_on>
-            <sys_id>24f642f4db180300ac0cd540cf9619b3</sys_id>
+            <sys_created_on>2017-08-02 11:21:15</sys_created_on>
+            <sys_id>7b73738adb500300ac0cd540cf9619f3</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2017-07-29 06:14:35</sys_updated_on>
+            <sys_updated_on>2017-08-02 11:21:15</sys_updated_on>
         </sys_ui_list_element>
         <sys_ui_list_element action="INSERT_OR_UPDATE">
             <average_value>false</average_value>
             <element>lastname</element>
-            <list_id display_value="x_142113_sereversi_serverside" element="NULL" name="x_142113_sereversi_serverside" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">28f642f4db180300ac0cd540cf9619b2</list_id>
+            <list_id display_value="x_142113_sereversi_serverside" element="NULL" name="x_142113_sereversi_serverside" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">3373738adb500300ac0cd540cf9619f3</list_id>
             <max_value>false</max_value>
             <min_value>false</min_value>
             <position>1</position>
             <sum>false</sum>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2017-07-29 06:14:35</sys_created_on>
-            <sys_id>2cf642f4db180300ac0cd540cf9619b3</sys_id>
+            <sys_created_on>2017-08-02 11:21:15</sys_created_on>
+            <sys_id>ff73738adb500300ac0cd540cf9619f3</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2017-07-29 06:14:35</sys_updated_on>
+            <sys_updated_on>2017-08-02 11:21:15</sys_updated_on>
         </sys_ui_list_element>
         <sys_ui_list_element action="INSERT_OR_UPDATE">
             <average_value>false</average_value>
             <element>updateddate</element>
-            <list_id display_value="x_142113_sereversi_serverside" element="NULL" name="x_142113_sereversi_serverside" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">28f642f4db180300ac0cd540cf9619b2</list_id>
+            <list_id display_value="x_142113_sereversi_serverside" element="NULL" name="x_142113_sereversi_serverside" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">3373738adb500300ac0cd540cf9619f3</list_id>
             <max_value>false</max_value>
             <min_value>false</min_value>
             <position>2</position>
             <sum>false</sum>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2017-07-29 06:14:35</sys_created_on>
-            <sys_id>acf642f4db180300ac0cd540cf9619b3</sys_id>
+            <sys_created_on>2017-08-02 11:21:15</sys_created_on>
+            <sys_id>7373738adb500300ac0cd540cf9619f4</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2017-07-29 06:14:35</sys_updated_on>
+            <sys_updated_on>2017-08-02 11:21:15</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>u_choice_1</element>
+            <list_id display_value="x_142113_sereversi_serverside" element="NULL" name="x_142113_sereversi_serverside" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">3373738adb500300ac0cd540cf9619f3</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>3</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-08-02 11:21:15</sys_created_on>
+            <sys_id>f373738adb500300ac0cd540cf9619f4</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-08-02 11:21:15</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>u_string_2</element>
+            <list_id display_value="x_142113_sereversi_serverside" element="NULL" name="x_142113_sereversi_serverside" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">3373738adb500300ac0cd540cf9619f3</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>4</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-08-02 11:21:15</sys_created_on>
+            <sys_id>7773738adb500300ac0cd540cf9619f4</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-08-02 11:21:15</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>u_string_3</element>
+            <list_id display_value="x_142113_sereversi_serverside" element="NULL" name="x_142113_sereversi_serverside" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">3373738adb500300ac0cd540cf9619f3</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>5</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-08-02 11:21:15</sys_created_on>
+            <sys_id>f773738adb500300ac0cd540cf9619f4</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-08-02 11:21:15</sys_updated_on>
         </sys_ui_list_element>
         <sys_ui_list action="INSERT_OR_UPDATE">
             <average_value>false</average_value>
@@ -58,11 +103,11 @@
             <sum>false</sum>
             <sys_class_name>sys_ui_list</sys_class_name>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2017-07-29 06:14:34</sys_created_on>
+            <sys_created_on>2017-08-02 11:21:15</sys_created_on>
             <sys_customer_update>false</sys_customer_update>
             <sys_domain>global</sys_domain>
             <sys_domain_path>/</sys_domain_path>
-            <sys_id>28f642f4db180300ac0cd540cf9619b2</sys_id>
+            <sys_id>3373738adb500300ac0cd540cf9619f3</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_name>x_142113_sereversi_serverside</sys_name>
             <sys_package display_value="SereverSide" source="x_142113_sereversi">5ab596a0db100300ac0cd540cf96195d</sys_package>
@@ -71,7 +116,7 @@
             <sys_scope display_value="SereverSide">5ab596a0db100300ac0cd540cf96195d</sys_scope>
             <sys_update_name>sys_ui_list_x_142113_sereversi_serverside_null</sys_update_name>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2017-07-29 06:14:34</sys_updated_on>
+            <sys_updated_on>2017-08-02 11:21:15</sys_updated_on>
             <sys_user/>
             <view display_value="Default view" name="NULL">Default view</view>
             <view_name/>
