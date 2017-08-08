@@ -7,11 +7,11 @@
         <element label="UpdatedDate" max_length="40" name="updateddate" type="glide_date_time"/>
         <element attributes="edge_encryption_enabled=true" choice="1" label="status" max_length="40" name="u_choice_1" type="string">
             <choice>
-                <element label="new" sequence="0" value="new"/>
-                <element label="pending" sequence="1" value="pending"/>
-                <element label="requested" sequence="2" value="requested"/>
-                <element label="approved" sequence="3" value="approved"/>
-                <element label="close" sequence="4" value="close"/>
+                <element label="New" sequence="0" value="1"/>
+                <element label="Pending" sequence="1" value="2"/>
+                <element label="Requested" sequence="2" value="3"/>
+                <element label="Approved" sequence="3" value="4"/>
+                <element label="Closed" sequence="4" value="5"/>
             </choice>
         </element>
         <element attributes="edge_encryption_enabled=true" label="Requested for Email" mandatory="true" max_length="40" name="u_string_1" type="string"/>

@@ -6,6 +6,25 @@
             <element>u_choice_1</element>
             <hint/>
             <inactive>false</inactive>
+            <label>New</label>
+            <language>en</language>
+            <name>x_142113_sereversi_serverside</name>
+            <sequence>0</sequence>
+            <sys_created_by>fred.luddy</sys_created_by>
+            <sys_created_on>2017-08-04 12:14:36</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>fce29632db900300ac0cd540cf9619a9</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>fred.luddy</sys_updated_by>
+            <sys_updated_on>2017-08-04 12:14:36</sys_updated_on>
+            <value>1</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_choice_1</element>
+            <hint/>
+            <inactive>true</inactive>
             <label>new</label>
             <language>en</language>
             <name>x_142113_sereversi_serverside</name>
@@ -15,9 +34,9 @@
             <sys_domain>global</sys_domain>
             <sys_domain_path>/</sys_domain_path>
             <sys_id>031baf46db500300ac0cd540cf961973</sys_id>
-            <sys_mod_count>0</sys_mod_count>
-            <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2017-08-02 10:44:36</sys_updated_on>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_updated_by>fred.luddy</sys_updated_by>
+            <sys_updated_on>2017-08-04 12:14:36</sys_updated_on>
             <value>new</value>
         </sys_choice>
         <sys_choice action="INSERT_OR_UPDATE">
@@ -25,6 +44,25 @@
             <element>u_choice_1</element>
             <hint/>
             <inactive>false</inactive>
+            <label>Pending</label>
+            <language>en</language>
+            <name>x_142113_sereversi_serverside</name>
+            <sequence>1</sequence>
+            <sys_created_by>fred.luddy</sys_created_by>
+            <sys_created_on>2017-08-04 12:14:36</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>bce29632db900300ac0cd540cf9619aa</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>fred.luddy</sys_updated_by>
+            <sys_updated_on>2017-08-04 12:14:36</sys_updated_on>
+            <value>2</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_choice_1</element>
+            <hint/>
+            <inactive>true</inactive>
             <label>pending</label>
             <language>en</language>
             <name>x_142113_sereversi_serverside</name>
@@ -34,9 +72,9 @@
             <sys_domain>global</sys_domain>
             <sys_domain_path>/</sys_domain_path>
             <sys_id>031baf46db500300ac0cd540cf961974</sys_id>
-            <sys_mod_count>0</sys_mod_count>
-            <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2017-08-02 10:44:36</sys_updated_on>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_updated_by>fred.luddy</sys_updated_by>
+            <sys_updated_on>2017-08-04 12:14:36</sys_updated_on>
             <value>pending</value>
         </sys_choice>
         <sys_choice action="INSERT_OR_UPDATE">
@@ -44,6 +82,25 @@
             <element>u_choice_1</element>
             <hint/>
             <inactive>false</inactive>
+            <label>Requested</label>
+            <language>en</language>
+            <name>x_142113_sereversi_serverside</name>
+            <sequence>2</sequence>
+            <sys_created_by>fred.luddy</sys_created_by>
+            <sys_created_on>2017-08-04 12:14:36</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>b8e29632db900300ac0cd540cf9619ab</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>fred.luddy</sys_updated_by>
+            <sys_updated_on>2017-08-04 12:14:36</sys_updated_on>
+            <value>3</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_choice_1</element>
+            <hint/>
+            <inactive>true</inactive>
             <label>requested</label>
             <language>en</language>
             <name>x_142113_sereversi_serverside</name>
@@ -53,9 +110,9 @@
             <sys_domain>global</sys_domain>
             <sys_domain_path>/</sys_domain_path>
             <sys_id>0f1baf46db500300ac0cd540cf961974</sys_id>
-            <sys_mod_count>0</sys_mod_count>
-            <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2017-08-02 10:44:36</sys_updated_on>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_updated_by>fred.luddy</sys_updated_by>
+            <sys_updated_on>2017-08-04 12:14:36</sys_updated_on>
             <value>requested</value>
         </sys_choice>
         <sys_choice action="INSERT_OR_UPDATE">
@@ -63,6 +120,25 @@
             <element>u_choice_1</element>
             <hint/>
             <inactive>false</inactive>
+            <label>Approved</label>
+            <language>en</language>
+            <name>x_142113_sereversi_serverside</name>
+            <sequence>3</sequence>
+            <sys_created_by>fred.luddy</sys_created_by>
+            <sys_created_on>2017-08-04 12:14:36</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>b4e29632db900300ac0cd540cf9619ac</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>fred.luddy</sys_updated_by>
+            <sys_updated_on>2017-08-04 12:14:36</sys_updated_on>
+            <value>4</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_choice_1</element>
+            <hint/>
+            <inactive>true</inactive>
             <label>approved</label>
             <language>en</language>
             <name>x_142113_sereversi_serverside</name>
@@ -72,9 +148,9 @@
             <sys_domain>global</sys_domain>
             <sys_domain_path>/</sys_domain_path>
             <sys_id>0b1baf46db500300ac0cd540cf961975</sys_id>
-            <sys_mod_count>0</sys_mod_count>
-            <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2017-08-02 10:44:36</sys_updated_on>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_updated_by>fred.luddy</sys_updated_by>
+            <sys_updated_on>2017-08-04 12:14:36</sys_updated_on>
             <value>approved</value>
         </sys_choice>
         <sys_choice action="INSERT_OR_UPDATE">
@@ -82,6 +158,25 @@
             <element>u_choice_1</element>
             <hint/>
             <inactive>false</inactive>
+            <label>Closed</label>
+            <language>en</language>
+            <name>x_142113_sereversi_serverside</name>
+            <sequence>4</sequence>
+            <sys_created_by>fred.luddy</sys_created_by>
+            <sys_created_on>2017-08-04 12:14:36</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>b0e29632db900300ac0cd540cf9619ad</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>fred.luddy</sys_updated_by>
+            <sys_updated_on>2017-08-04 12:14:36</sys_updated_on>
+            <value>5</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_choice_1</element>
+            <hint/>
+            <inactive>true</inactive>
             <label>close</label>
             <language>en</language>
             <name>x_142113_sereversi_serverside</name>
@@ -91,9 +186,9 @@
             <sys_domain>global</sys_domain>
             <sys_domain_path>/</sys_domain_path>
             <sys_id>071baf46db500300ac0cd540cf961976</sys_id>
-            <sys_mod_count>0</sys_mod_count>
-            <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2017-08-02 10:44:36</sys_updated_on>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_updated_by>fred.luddy</sys_updated_by>
+            <sys_updated_on>2017-08-04 12:14:36</sys_updated_on>
             <value>close</value>
         </sys_choice>
         <sys_choice_set action="INSERT_OR_UPDATE">

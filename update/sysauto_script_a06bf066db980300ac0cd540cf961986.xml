@@ -4,35 +4,30 @@
         <active>true</active>
         <condition/>
         <conditional>false</conditional>
-        <name>Server Count Problem Records</name>
+        <name>Serverside</name>
         <run_as display_value="System Administrator">6816f79cc0a8016401c5a33be04be441</run_as>
         <run_as_tz/>
         <run_dayofmonth>1</run_dayofmonth>
         <run_dayofweek>1</run_dayofweek>
         <run_period/>
-        <run_start>2017-08-01 08:07:13</run_start>
-        <run_time>1970-01-01 08:00:00</run_time>
-        <run_type>on_demand</run_type>
-        <script><![CDATA[// Create a GlideRecord object for the Problem table
-var gr = new GlideRecord('problem');
-// Query the problem table and return all records in the GlideRecord object
-gr.query();
-// Log the number of records in the Problem table
-gs.info("Total records in Problem table = " + gr.getRowCount());]]></script>
+        <run_start>2017-08-03 11:13:48</run_start>
+        <run_time>1970-01-01 16:00:00</run_time>
+        <run_type>daily</run_type>
+        <script/>
         <sys_class_name>sysauto_script</sys_class_name>
         <sys_created_by>admin</sys_created_by>
-        <sys_created_on>2017-08-01 08:22:51</sys_created_on>
+        <sys_created_on>2017-08-03 11:14:15</sys_created_on>
         <sys_customer_update>false</sys_customer_update>
-        <sys_id>cc8d3db5db100300ac0cd540cf96198a</sys_id>
+        <sys_id>a06bf066db980300ac0cd540cf961986</sys_id>
         <sys_mod_count>0</sys_mod_count>
-        <sys_name>Server Count Problem Records</sys_name>
+        <sys_name>Serverside</sys_name>
         <sys_package display_value="SereverSide" source="x_142113_sereversi">5ab596a0db100300ac0cd540cf96195d</sys_package>
         <sys_policy/>
         <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
         <sys_scope display_value="SereverSide">5ab596a0db100300ac0cd540cf96195d</sys_scope>
-        <sys_update_name>sysauto_script_cc8d3db5db100300ac0cd540cf96198a</sys_update_name>
+        <sys_update_name>sysauto_script_a06bf066db980300ac0cd540cf961986</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2017-08-01 08:22:51</sys_updated_on>
+        <sys_updated_on>2017-08-03 11:14:15</sys_updated_on>
         <upgrade_safe>false</upgrade_safe>
     </sysauto_script>
 </record_update>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sys_properties">
+    <sys_properties action="INSERT_OR_UPDATE">
+        <choices>7,14,21,28</choices>
+        <description>Test</description>
+        <ignore_cache>false</ignore_cache>
+        <is_private>false</is_private>
+        <name>x_142113_sereversi.autoCloseoverdue</name>
+        <read_roles/>
+        <suffix>autoCloseoverdue</suffix>
+        <sys_class_name>sys_properties</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2017-08-08 10:54:01</sys_created_on>
+        <sys_customer_update>false</sys_customer_update>
+        <sys_id>30262a48db600300ac0cd540cf9619ce</sys_id>
+        <sys_mod_count>2</sys_mod_count>
+        <sys_name>x_142113_sereversi.autoCloseoverdue</sys_name>
+        <sys_package display_value="SereverSide" source="x_142113_sereversi">5ab596a0db100300ac0cd540cf96195d</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="SereverSide">5ab596a0db100300ac0cd540cf96195d</sys_scope>
+        <sys_update_name>sys_properties_30262a48db600300ac0cd540cf9619ce</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2017-08-08 11:32:39</sys_updated_on>
+        <type>choicelist</type>
+        <value>21</value>
+        <write_roles/>
+    </sys_properties>
+    <sys_translated_text action="delete_multiple" query="documentkey=30262a48db600300ac0cd540cf9619ce"/>
+</record_update>
